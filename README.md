@@ -20,11 +20,15 @@ E ae <img height="20px" src="https://raw.githubusercontent.com/MartinHeinz/Marti
 <br/>
 Meu nome é Guilherme e seja muito bem-vindo ao meu github. 
 
-Estudo diariamente desenvolvimento front-end. Sempre em busca de uma novo aprendizado.
-<br/>
-Meu estudo é focado em React JS/NextJS e Typescript. Estudo também Sass, Styled-Components, Tailwind CSS, Material-UI, Jest e ThreeJS.
+Estudo desenvolvimento front-end diariamente, sempre um busca de um novo nível de conhecimento. Atualmente estudo ReactJS/NextJS e Typescript.
+Acredito que somente com a combinação perfeita de estudar e codar, podemos adquirir um novo aprendizado nesse vasto mundo do desenvolvimento web.
+
+Agora estou em busca de uma oportunidade como dev front-end jr. 
+Aproveitando a oportunidade, já deixo meu cv aqui :scroll: [acessar cv.](https://curriculum-5gq49kawe-guilhermeb-silva.vercel.app/)
 
 <br/>
+
+E ae tech recruiter, vamos bater um papo ?
 
 <div>
    <h1>Contato</h1>
@@ -38,15 +42,10 @@ Meu estudo é focado em React JS/NextJS e Typescript. Estudo também Sass, Style
    </a> 
 </div>
 
-
 <br/>
 <br/>
-
-
 
 <hr/>
-
-
    
  <div align="center">
     <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=guilhermeb-silva&show_icons=true&theme=merko&include_all_commits=true"/>
