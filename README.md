@@ -22,12 +22,10 @@ Meu nome é Guilherme e seja muito bem-vindo ao meu github.
 Estudo desenvolvimento front-end diariamente, sempre um busca de um novo nível de conhecimento. Atualmente estudo ReactJS/NextJS e Typescript.
 Acredito que somente com a combinação perfeita de estudar e codar, podemos adquirir um novo aprendizado nesse vasto mundo do desenvolvimento web.
 
-Agora estou em busca de uma oportunidade como dev front-end jr. 
-Aproveitando a oportunidade, já deixo meu cv aqui :scroll: [acessar cv.](https://curriculum-5gq49kawe-guilhermeb-silva.vercel.app/)
+
 
 <br/>
 
-E ae tech recruiter, vamos bater um papo ?
 
 <div>
    <h1>Contato</h1>
