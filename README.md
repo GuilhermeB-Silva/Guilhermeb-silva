@@ -1,7 +1,7 @@
 <img src="https://github.com/Guilhermeb-silva/Guilhermeb-silva/blob/main/gitbanner.png" />
 
 <div>
-   <h1>Guilherme Silva</h1>
+   <h1>Desenvolver front-end</h1>
    <img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 <div style="height:20px">
