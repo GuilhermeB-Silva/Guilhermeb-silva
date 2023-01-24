@@ -1,28 +1,19 @@
-<img src="https://github.com/Guilhermeb-silva/Guilhermeb-silva/blob/main/gitbanner.png" />
-
-<div>
-   <h1>Desenvolver front-end</h1>
-   <img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<div align="center">
+   <div style="display:flex;justifyContent:center;textAlign:center">
+      <h1>Dev front-end</h1>
+      <img height="30px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+   </div>
+   <div style="height:20px">
+      <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>
+      <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+      <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
+      <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+      <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
+      <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg"/>
+   </div>
+<img height="800px" src="https://github.com/GuilhermeB-Silva/Guilhermeb-silva/blob/main/octocat-1674575350872.png" />
+   
 </div>
-<div style="height:20px">
-   <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>
-   <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-   <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
-   <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
-   <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
-   <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg"/>
-</div>
-
-<br/>
-
-
-
-<br/>
-
-
-
-<br/>
-<br/>
 
 <hr/>
    
