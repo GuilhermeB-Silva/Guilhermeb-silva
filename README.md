@@ -20,17 +20,6 @@
 <br/>
 
 
-<div>
-   <h1>Contato</h1>
-   
-   <a href="https://www.linkedin.com/in/guilherme-silva-9425b0190">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-   </a>
- 
-   <a href="mailto:guilherme.silva1992@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-   </a> 
-</div>
 
 <br/>
 <br/>
