@@ -15,13 +15,6 @@
 
 <br/>
 
-E ae <img height="20px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"/>, belezaa ? 
-<br/>
-Meu nome é Guilherme e seja muito bem-vindo ao meu github. 
-
-Estudo desenvolvimento front-end diariamente, sempre um busca de um novo nível de conhecimento. Atualmente estudo ReactJS/NextJS e Typescript.
-Acredito que somente com a combinação perfeita de estudar e codar, podemos adquirir um novo aprendizado nesse vasto mundo do desenvolvimento web.
-
 
 
 <br/>
