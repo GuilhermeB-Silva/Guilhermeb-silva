@@ -8,7 +8,6 @@
    <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg"/>
    <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
    <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"/>
-   <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
    <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
    <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
    <img height=20px src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg"/>
